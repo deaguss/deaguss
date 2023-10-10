@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![MasterHead](https://github.com/deaguss/deaguss/assets/111763433/89e6bb33-8163-4326-8069-c69c658680b7)
+
 <h1 align="center">Hi 👋, I'm Dede</h1>
 <h3 align="center">I am currently studying at the Institute of Technology (ITB), majoring in Computer Science. I have a strong background in full-stack development and Android app development.</h3>
 
